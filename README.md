@@ -1,0 +1,2 @@
+# cli-wasm
+wasm project
